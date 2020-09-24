@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: test.Test1
+Class-Path: lucene-analyzers-common-4.7.2.jar junit-4.12.jar hamcrest-co
+ re-1.3.jar lucene-queryparser-4.7.2.jar lucene-queries-4.7.2.jar ikanal
+ yzer-2012_u6.jar hanlp-portable-1.7.2.jar lucene-sandbox-4.7.2.jar juni
+ t.jar lucene-core-4.7.2.jar
+
